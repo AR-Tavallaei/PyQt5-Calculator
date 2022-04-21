@@ -1,10 +1,10 @@
 # calculator
 
-This application is generated with PyQt5 and made by Amirreza Tavallaei
+This application is a Calculator was generated with PyQt5 and made by Amirreza Tavallaei.
 
-For use this application install PyQt5 module
+For use this application install PyQt5 module.
 
-For this write this command in Command Line
+For this write this command in Command Line:
 
 ```bash
 pip install PyQt5 
@@ -13,3 +13,6 @@ pip install PyQt5
 # ScreenShot
 
 <img src="media/screen.PNG"></img>
+
+
+Also this Calculator have a history for see recent operations.
