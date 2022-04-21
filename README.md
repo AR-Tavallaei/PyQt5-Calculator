@@ -12,4 +12,4 @@ pip install PyQt5
 
 # ScreenShot
 
-<img src="media/screen.png"></img>
+<img src="media/screen.PNG"></img>
