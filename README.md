@@ -6,4 +6,6 @@ For use this application install PyQt5 module
 
 For this write this command in Command Line
 
-``` pip install PyQt5 ```
+```bash
+pip install PyQt5 
+```
